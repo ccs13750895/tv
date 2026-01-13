@@ -1,5 +1,6 @@
-CCTV13-新闻,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://58.244.14.89:5003/cctv13.m3u8?token=7375646f60391de52b828b3aec8b4a96e8963113&z=1f4e
 辽宁1,http://60.17.96.37:8089/rtp/232.0.0.154:1234
 辽宁3,http://119.51.247.34:5003/live1023.m3u8?token=7375646f7624312045fe1603faf5a047e1f30b80&z=1f4e
+
 
 
