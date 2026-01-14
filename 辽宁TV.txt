@@ -1,5 +1,6 @@
 CCTV13-新闻,http://183.164.37.55:4022/rtp/238.1.79.35:4392
 辽宁1,http://sh.lnott.top:880/dx20.m3u8
-辽宁3,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+辽宁3,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+
 
 
